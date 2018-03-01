@@ -1,30 +1,31 @@
 # M5Stack-SAM
 
-Fast and dirty minimalist application menu for M5Stack.
+By Tom Such 2018.
 
+This is a menu system for the M5Stack. SAM = Simple Application Menu
 
-Integrated applications:
+Uploading this one menu sketch to the M5Stack allows user access to multiple functions.
 
-	DHT12 - Temperature / Humidity, Stopwatch, I2C scanner
+The Main Menu provides access to three sections: Applications, System, & Configuration.
+
+Applications:
+
+        DHT12 - Temperature / Humidity, Stopwatch, I2C scanner
 	Bluetooth BLE Beacon Simulator (iBeacon, Eddystone TLM + URL, ALTBeacon)
-	QRCODE generator
+	QRCode Generator
 	GY-512 (MPU6050) - gyro/accelerometer
-	SerialBridge - PASS-THRU USB<->UART2
-	WiFi SCANNER
+	SerialBridge - PASS-THRU USB <-> UART2
+	WiFi Scanner 
 
 Settings:
   
-	Display backlight
+	Sleep / Charging Mode
+	M5 System Info - CPU Speed, Flash Size, Flash SPEED, SDK Version
 
+Configuration:
 
-Other:
-  
-	System information - CPU Speed, Flash Size, Flash SPEED, SDK Version .......
-	Sleep mode
-	Serial control at 115200 8N1 and NL&CR termination
-
-
-I be glad when you share the further development, I will continuously add other applications and options.
+        Adjust display brightness
+ 
 
 QRCode showing:
 
