@@ -7,7 +7,8 @@ This is a menu system for the M5Stack. SAM = Simple Application Menu
 Uploading this one menu sketch to the M5Stack allows user access to multiple functions.
 
 The Main Menu provides access to three sections: Applications, System, & Configuration.
-
+<br />
+<br />
 Applications:
 
 	DHT12 - Temperature / Humidity, Stopwatch, I2C scanner
@@ -26,11 +27,16 @@ Configuration:
 
 	Adjust display brightness
  
+<br />
+<br />
+<br />
 
 QRCode showing:
 
 	QRPrint("www.google.com");
 
+
+<br />
 SimpleBeacon:
 
 	ble.iBeacon(10,20,50); // ble.iBeacon(MajorCode,MinorCode,Power);
@@ -43,6 +49,8 @@ SimpleBeacon:
 			3	https://
 	ble.AltBeacon();
 
+
+<br />
 Serial commands:
 
 	Serial control at 115200 8N1 and NL&CR termination
@@ -78,6 +86,8 @@ Serial commands:
 			2	http://
 			3	https://		
 		
+<br />
+<br />
 
 Based on:
 
