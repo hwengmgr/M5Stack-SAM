@@ -11,7 +11,9 @@ The Main Menu provides access to three sections: Applications, System, & Configu
 <br />
 Applications:
 
-	DHT12 - Temperature / Humidity, Stopwatch, I2C scanner
+	DHT12 - Temperature / Humidity
+	Stopwatch
+	I2C scanner
 	Bluetooth BLE Beacon Simulator (iBeacon, Eddystone TLM + URL, ALTBeacon)
 	QRCode Generator
 	GY-512 (MPU6050) - gyro/accelerometer
