@@ -9,25 +9,25 @@ Uploading this one menu sketch to the M5Stack allows user access to multiple fun
 The Main Menu provides access to three sections: Applications, System, & Configuration.
 <br />
 <br />
-Applications:
+**Applications:**
 
-	DHT12 - Temperature / Humidity
+	DHT12 Sensor display - Temperature / Humidity
 	Stopwatch
 	I2C scanner
 	Bluetooth BLE Beacon Simulator (iBeacon, Eddystone TLM + URL, ALTBeacon)
 	QRCode Generator
-	GY-512 (MPU6050) - gyro/accelerometer
+	GY-512 (MPU6050) - gyro/accelerometer (requires hardware mod + GY-512)
 	SerialBridge - PASS-THRU USB <-> UART2
 	WiFi Scanner 
 
-Settings:
+**Settings:**
   
 	Sleep / Charging Mode
 	M5 System Info - CPU Speed, Flash Size, Flash SPEED, SDK Version
 
-Configuration:
+**Configuration:**
 
-	Adjust display brightness
+	Adjust display brightness  
  
 <br />
 <br />
