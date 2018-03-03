@@ -9,6 +9,7 @@ Uploading this one menu sketch to the M5Stack allows user access to multiple fun
 The Main Menu provides access to three sections: Applications, System, & Configuration.
 <br />
 <br />
+
 **Applications:**
 
 	DHT12 Sensor display - Temperature / Humidity
@@ -28,6 +29,12 @@ The Main Menu provides access to three sections: Applications, System, & Configu
 **Configuration:**
 
 	Adjust display brightness  
+ 
+ 
+<br />
+<br />
+
+![](Screenshot.png?raw=true)
  
 <br />
 <br />
