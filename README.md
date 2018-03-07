@@ -1,11 +1,14 @@
 # M5Stack-SAM
 
-A Simple Application Menu system for the M5Stack - also includes applications & access to system info/settings.
+A Simple Application Menu (SAM) system for the M5Stack  . 
+<br />
+<br />
+So far includes x8 applications plus access to system info and settings.
 <br />
 <br />
 By Tom Such - https://github.com/tomsuch/M5Stack-SAM - Other contributors listed below.
 
-Note there are 3 very minor changes to this version here compared to the original (they barely touch the original code). 
+There are 3 very minor changes applied here compared to the original (they don't touch the working code). 
 Changes listed below.
 <br />
 <br />
