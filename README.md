@@ -1,16 +1,21 @@
 # M5Stack-SAM
 
-M5Stack-SAM  =  Simple Application Menu  =  a menu system for the M5Stack + also includes applications.
+A Simple Application Menu system for the M5Stack - also includes applications & access to system info/settings.
+<br />
+<br />
+By Tom Such - https://github.com/tomsuch/M5Stack-SAM - Other contributors listed below.
 
-By Tom Such - https://github.com/tomsuch/M5Stack-SAM - Other contributors listed at bottom.
+Note there are 3 very minor changes to this version here compared to the original (they barely touch the original code). 
+Changes listed below.
 <br />
 <br />
 
 **M5Stack-SAM brings MULTI FUNCTIONALITY to the M5Stack !!**
 
-The SAM menu sketch provides access to what would otherwise be multiple single sketches that would need to be loaded one at a time. 
+Loaded on the M5Stack, the SAM provides access to a number of applications that would normally be loaded as individual sketches. Applications are listed below. SAM also allows access to system info and some settings.
 <br />
-The Main Menu provides access to three sections: Applications, System, & Configuration.
+
+The Main Menu provides access to three sections:   Applications,  System,  &  Configuration.
 <br />
 <br />
 
@@ -20,19 +25,19 @@ The Main Menu provides access to three sections: Applications, System, & Configu
 	Stopwatch
 	I2C scanner
 	Bluetooth BLE Beacon Simulator (iBeacon, Eddystone TLM + URL, ALTBeacon)
-	QRCode Generator
+	QRCode Generator & QRCode Display
 	GY-512 (MPU6050) - gyro/accelerometer (requires hardware mod + GY-512)
 	SerialBridge - PASS-THRU USB <-> UART2
 	WiFi Scanner 
 
-**Settings:**
+**System:**
   
 	Sleep / Charging Mode
 	M5 System Info - CPU Speed, Flash Size, Flash SPEED, SDK Version
 
 **Configuration:**
 
-	Adjust display brightness  
+	Adjust display brightness   (conserves battery)
  
  
 <br />
@@ -46,7 +51,8 @@ The Main Menu provides access to three sections: Applications, System, & Configu
 
 QRCode showing:
 
-	QRPrint("www.google.com");
+	QRPrint  (Visit the M5Stack website - "www.m5stack.com");
+	QRCode can be changed - in Arduino IDE, with M5Stack-SAM.ino open, change data on the "ÄPPS" tab - line 348. 
 
 
 <br />
@@ -109,3 +115,8 @@ Based on:
 	https://github.com/kroimon/Arduino-SerialCommand
 	
 	
+Changes applied to this version:
+
+	Authors name removed from main menu screen display on M5Stack (perhaps an About page could be added to the system section?).
+	Added acknowledgement of author and contributors to the code pre-amble so it travels with the code.
+	QRCode generated and displayed changed from authors name to M5Stack - www.m5stack.com 
