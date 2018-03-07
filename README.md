@@ -114,7 +114,11 @@ Based on:
 	https://github.com/ricmoo/qrcode
 	https://github.com/kroimon/Arduino-SerialCommand
 	
-	
+
+<br />
+<br />
+
+
 Changes applied to this version:
 
 	Authors name removed from main menu screen display on M5Stack (perhaps an About page could be added to the system section?).
