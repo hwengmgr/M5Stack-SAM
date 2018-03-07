@@ -1,11 +1,15 @@
 # M5Stack-SAM
 
-By Tom Such 2018.
+M5Stack-SAM  =  Simple Application Menu  =  a menu system for the M5Stack + also includes applications.
 
-This is a menu system for the M5Stack. SAM = Simple Application Menu
+By Tom Such - https://github.com/tomsuch/M5Stack-SAM - Other contributors listed at bottom.
+<br />
+<br />
 
-Uploading this one menu sketch to the M5Stack allows user access to multiple functions.
+**M5Stack-SAM brings MULTI FUNCTIONALITY to the M5Stack !!**
 
+The SAM menu sketch provides access to what would otherwise be multiple single sketches that would need to be loaded one at a time. 
+<br />
 The Main Menu provides access to three sections: Applications, System, & Configuration.
 <br />
 <br />
