@@ -53,9 +53,7 @@ The Main Menu provides access to three sections:   Applications,  System,  &  Co
 <br />
 <br />
 
-<a href="https://www.youtube.com/watch?v=I0mzvDC6M1c" target=newtab></a>
-
-[![M5Stack-SAM Demonstration](https://github.com/PartsandCircuits/M5Stack-SAM/blob/master/Screenshot-Video.png)](https://www.youtube.com/watch?v=I0mzvDC6M1c "M5Stack-SAM Demonstration - Click to Watch!") 
+<a href="https://www.youtube.com/watch?v=I0mzvDC6M1c" target=newtab></a> [![M5Stack-SAM Demonstration](https://github.com/PartsandCircuits/M5Stack-SAM/blob/master/Screenshot-Video.png)](https://www.youtube.com/watch?v=I0mzvDC6M1c "M5Stack-SAM Demonstration - Click to Watch!") 
  
 <br />
 <br />
