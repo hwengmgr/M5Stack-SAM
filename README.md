@@ -54,7 +54,7 @@ The Main Menu provides access to three sections:   Applications,  System,  &  Co
 **Demonstration Video**
 <br />
 
-[(https://img.youtube.com/vi/I0mzvDC6M1c/0.jpg)] (https://www.youtube.com/watch?v=I0mzvDC6M1c)
+![](Screenshot-Video.PNG?raw=true) (https://www.youtube.com/watch?v=I0mzvDC6M1c)
  
 <br />
 <br />
