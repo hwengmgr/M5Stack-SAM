@@ -1,4 +1,12 @@
 # M5Stack-SAM
+<br />
+
+
+![](Screenshot.png?raw=true)
+<br />
+<br />
+
+## About
 
 A Simple Application Menu (SAM) system for the M5Stack  . 
 <br />
@@ -43,10 +51,7 @@ The Main Menu provides access to three sections:   Applications,  System,  &  Co
 	Adjust display brightness   (conserves battery)
  
  
-<br />
-<br />
 
-![](Screenshot.png?raw=true)
 <br />
 <br />
 
