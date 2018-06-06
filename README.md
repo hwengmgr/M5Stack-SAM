@@ -30,6 +30,20 @@ The Main Menu provides access to three sections:   Applications,  System,  &  Co
 <br />
 <br />
 
+**Installation**
+
+To upload to M5Stack, in Arduino please be sure to use M5Stack library version 0.1.6.
+You may need to downgrade your library version.... 
+
+*To downgrade the M5Stack library version:*
+
+In Arduino, go to Sketch/Include Libraries/Manage Libraries then type M5Stack into the search field at the top.... it should then indicate which library version you have installed. If not 0.1.6 then click "Select Version" and select 0.1.6 and then select to install it. 
+
+Once you have the SAM menu loaded on your M5Stack you can then revert back to a more recent version of the M5Stack library.
+
+<br />
+<br />
+
 **Applications:**
 
 	DHT12 Sensor display - Temperature / Humidity
