@@ -10,6 +10,7 @@
 #include "SerialCommand.h"
 #include "WiFi.h"
 #include "esp_system.h"
+#include "M5Stack-SAM.h"
 
 SimpleBeacon ble;
 DHT12 dht12;
